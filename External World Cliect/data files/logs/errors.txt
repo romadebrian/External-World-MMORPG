@@ -1,0 +1,3603 @@
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'NewCharacterDrawSprite' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'HandleChatBubble' in 'modHandleData'.
+Run-time error '0': .
+
+The following error occured at 'Render_Graphics' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'Render_Graphics' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'checkDirection' in 'modGameLogic'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'Render_Graphics' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'Render_Graphics' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'TcpInit' in 'modClientTCP'.
+Run-time error '40020': Invalid operation at current state.
+
+The following error occured at 'Render_Graphics' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'Render_Graphics' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'Render_Graphics' in 'modGraphics'.
+Run-time error '9': Subscript out of range.
+
+The following error occured at 'MenuLoop' in 'modGameLogic'.
+Run-time error '53': File not found: 'C:\Users\ROMA\AppData\Local\Temp\VBFB0B.tmp'.
+
