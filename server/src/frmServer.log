@@ -1,15 +1,3 @@
-Line 29: Class ComctlLib.ListView of control lvwInfo3 was not a loaded control class.
-Line 46: Class MSComctlLib.ListView of control lvwInfo2 was not a loaded control class.
-Line 135: Class MSComctlLib.ListView of control lvwInfo was not a loaded control class.
-Line 35: The property name _ExtentX in lvwInfo3 is invalid.
-Line 36: The property name _ExtentY in lvwInfo3 is invalid.
-Line 37: The property name LabelWrap in lvwInfo3 is invalid.
-Line 38: The property name HideSelection in lvwInfo3 is invalid.
-Line 39: The property name _Version in lvwInfo3 is invalid.
-Line 44: The property name NumItems in lvwInfo3 is invalid.
-Line 35: The property name _ExtentX in lvwInfo3 is invalid.
-Line 36: The property name _ExtentY in lvwInfo3 is invalid.
-Line 37: The property name LabelWrap in lvwInfo3 is invalid.
-Line 38: The property name HideSelection in lvwInfo3 is invalid.
-Line 39: The property name _Version in lvwInfo3 is invalid.
-Line 44: The property name NumItems in lvwInfo3 is invalid.
+Line 38: Class MSWinsockLib.Winsock of control Socket was not a loaded control class.
+Line 46: Class TabDlg.SSTab of control SSTab1 was not a loaded control class.
+Line 219: Class TabDlg.SSTab of control SSTab2 was not a loaded control class.
