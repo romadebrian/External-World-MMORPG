@@ -59,11 +59,11 @@ Begin VB.Form frmServer
       TabCaption(0)   =   "Console"
       TabPicture(0)   =   "frmServer.frx":1708A
       Tab(0).ControlEnabled=   -1  'True
-      Tab(0).Control(0)=   "Label17"
+      Tab(0).Control(0)=   "lblCPS"
       Tab(0).Control(0).Enabled=   0   'False
-      Tab(0).Control(1)=   "lblCPS"
+      Tab(0).Control(1)=   "lblCpsLock"
       Tab(0).Control(1).Enabled=   0   'False
-      Tab(0).Control(2)=   "lblCpsLock"
+      Tab(0).Control(2)=   "Label17"
       Tab(0).Control(2).Enabled=   0   'False
       Tab(0).Control(3)=   "txtChat"
       Tab(0).Control(3).Enabled=   0   'False
@@ -88,17 +88,17 @@ Begin VB.Form frmServer
       TabCaption(2)   =   "Control "
       TabPicture(2)   =   "frmServer.frx":170C2
       Tab(2).ControlEnabled=   0   'False
-      Tab(2).Control(0)=   "Frame7"
-      Tab(2).Control(1)=   "Frame3"
-      Tab(2).Control(2)=   "fraDatabase"
-      Tab(2).Control(3)=   "fraServer"
+      Tab(2).Control(0)=   "fraServer"
+      Tab(2).Control(1)=   "fraDatabase"
+      Tab(2).Control(2)=   "Frame3"
+      Tab(2).Control(3)=   "Frame7"
       Tab(2).ControlCount=   4
       TabCaption(3)   =   "Guilds"
       TabPicture(3)   =   "frmServer.frx":170DE
       Tab(3).ControlEnabled=   0   'False
-      Tab(3).Control(0)=   "cmdGSave"
+      Tab(3).Control(0)=   "Frame1"
       Tab(3).Control(1)=   "Frame2"
-      Tab(3).Control(2)=   "Frame1"
+      Tab(3).Control(2)=   "cmdGSave"
       Tab(3).ControlCount=   3
       TabCaption(4)   =   "Kill Event"
       TabPicture(4)   =   "frmServer.frx":170FA
@@ -494,25 +494,25 @@ Begin VB.Form frmServer
          TabCaption(0)   =   "Settings"
          TabPicture(0)   =   "frmServer.frx":17116
          Tab(0).ControlEnabled=   0   'False
-         Tab(0).Control(0)=   "Frame4"
+         Tab(0).Control(0)=   "Frame6"
          Tab(0).Control(1)=   "Frame5"
-         Tab(0).Control(2)=   "Frame6"
+         Tab(0).Control(2)=   "Frame4"
          Tab(0).ControlCount=   3
          TabCaption(1)   =   "More Settings"
          TabPicture(1)   =   "frmServer.frx":17132
          Tab(1).ControlEnabled=   0   'False
-         Tab(1).Control(0)=   "txtPlayerMsg"
-         Tab(1).Control(1)=   "cboColor_PlayerMsg"
-         Tab(1).Control(2)=   "chkPlayerMsg"
-         Tab(1).Control(3)=   "cboColor_ActionMsg"
-         Tab(1).Control(4)=   "opRise"
-         Tab(1).Control(5)=   "opStat"
-         Tab(1).Control(6)=   "txtActionMsg"
-         Tab(1).Control(7)=   "chkActionMsg"
-         Tab(1).Control(8)=   "Label14"
-         Tab(1).Control(9)=   "Label13"
-         Tab(1).Control(10)=   "Line1"
-         Tab(1).Control(11)=   "Label12"
+         Tab(1).Control(0)=   "Label12"
+         Tab(1).Control(1)=   "Line1"
+         Tab(1).Control(2)=   "Label13"
+         Tab(1).Control(3)=   "Label14"
+         Tab(1).Control(4)=   "chkActionMsg"
+         Tab(1).Control(5)=   "txtActionMsg"
+         Tab(1).Control(6)=   "opStat"
+         Tab(1).Control(7)=   "opRise"
+         Tab(1).Control(8)=   "cboColor_ActionMsg"
+         Tab(1).Control(9)=   "chkPlayerMsg"
+         Tab(1).Control(10)=   "cboColor_PlayerMsg"
+         Tab(1).Control(11)=   "txtPlayerMsg"
          Tab(1).ControlCount=   12
          TabCaption(2)   =   "Status"
          TabPicture(2)   =   "frmServer.frx":1714E
@@ -1194,6 +1194,14 @@ Begin VB.Form frmServer
             Object.Width           =   2999
          EndProperty
       End
+      Begin VB.Label Label17 
+         Caption         =   "Send By"
+         Height          =   255
+         Left            =   2280
+         TabIndex        =   102
+         Top             =   480
+         Width           =   735
+      End
       Begin VB.Label lblCpsLock 
          Alignment       =   2  'Center
          AutoSize        =   -1  'True
@@ -1212,14 +1220,6 @@ Begin VB.Form frmServer
          TabIndex        =   103
          Top             =   600
          Width           =   1815
-      End
-      Begin VB.Label Label17 
-         Caption         =   "Send By"
-         Height          =   255
-         Left            =   2280
-         TabIndex        =   102
-         Top             =   480
-         Width           =   735
       End
    End
    Begin VB.Menu mnuKick 

@@ -1,1 +1,0 @@
-extrack dx8vb.dll ke C: - windows - system32

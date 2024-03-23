@@ -1,0 +1,23 @@
+Line 49: Class SHDocVwCtl.WebBrowser of control PicNews was not a loaded control class.
+Line 74: Class InetCtlsObjects.Inet of control inetDownload was not a loaded control class.
+Line 55: The property name ExtentX in PicNews is invalid.
+Line 56: The property name ExtentY in PicNews is invalid.
+Line 57: The property name ViewMode in PicNews is invalid.
+Line 58: The property name Offline in PicNews is invalid.
+Line 59: The property name Silent in PicNews is invalid.
+Line 60: The property name RegisterAsBrowser in PicNews is invalid.
+Line 61: The property name RegisterAsDropTarget in PicNews is invalid.
+Line 62: The property name AutoArrange in PicNews is invalid.
+Line 63: The property name NoClientEdge in PicNews is invalid.
+Line 64: The property name AlignLeft in PicNews is invalid.
+Line 65: The property name NoWebView in PicNews is invalid.
+Line 66: The property name HideFileNames in PicNews is invalid.
+Line 67: The property name SingleClick in PicNews is invalid.
+Line 68: The property name SingleSelection in PicNews is invalid.
+Line 69: The property name NoFolders in PicNews is invalid.
+Line 70: The property name Transparent in PicNews is invalid.
+Line 71: The property name ViewID in PicNews is invalid.
+Line 72: The property name Location in PicNews is invalid.
+Line 77: The property name _ExtentX in inetDownload is invalid.
+Line 78: The property name _ExtentY in inetDownload is invalid.
+Line 79: The property name _Version in inetDownload is invalid.

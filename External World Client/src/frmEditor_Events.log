@@ -1,5 +1,19 @@
-Line 2595: Class ComctlLib.TabStrip of control tabCommands was not a loaded control class.
-Line 4076: Class ComctlLib.TabStrip of control tabPages was not a loaded control class.
+Line 2601: The property name _ExtentX in tabCommands is invalid.
+Line 2602: The property name _ExtentY in tabCommands is invalid.
+Line 2603: The property name _Version in tabCommands is invalid.
+Line 2612: The property name Tabs in tabCommands is invalid.
+Line 4082: The property name _ExtentX in tabPages is invalid.
+Line 4083: The property name _ExtentY in tabPages is invalid.
+Line 4084: The property name _Version in tabPages is invalid.
+Line 4093: The property name Tabs in tabPages is invalid.
+Line 2601: The property name _ExtentX in tabCommands is invalid.
+Line 2602: The property name _ExtentY in tabCommands is invalid.
+Line 2603: The property name _Version in tabCommands is invalid.
+Line 2612: The property name Tabs in tabCommands is invalid.
+Line 4082: The property name _ExtentX in tabPages is invalid.
+Line 4083: The property name _ExtentY in tabPages is invalid.
+Line 4084: The property name _Version in tabPages is invalid.
+Line 4093: The property name Tabs in tabPages is invalid.
 Line 2601: The property name _ExtentX in tabCommands is invalid.
 Line 2602: The property name _ExtentY in tabCommands is invalid.
 Line 2603: The property name _Version in tabCommands is invalid.
